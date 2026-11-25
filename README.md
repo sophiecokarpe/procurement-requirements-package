@@ -50,16 +50,16 @@ bookmarks for navigation.
 ## Diagrams
 
 ### As-is process
-![As-is BPMN](diagrams/as-is-process.svg)
+![As-is BPMN](diagrams/as-is%20process.svg)
 
 ### To-be process
-![To-be BPMN](diagrams/to-be-process.svg)
+![To-be BPMN](diagrams/to-be%20process.svg)
 
 ### Data model
-![ER diagram](diagrams/data-model.svg)
+![ER diagram](diagrams/data%20model.svg)
 
 ### Create purchase request — integration flow
-![UML sequence](diagrams/create-request-sequence.svg)
+![UML sequence](diagrams/UML.drawio.svg)
 
 Source files are in the `diagrams` folder: `.bpmn` for the process models,
 `.drawio` for the data model and the sequence diagram.
