@@ -28,8 +28,7 @@ a system that closes them.
 
 ## Contents
 
-`Procurement Requirements Package.pdf` — the full package, 49 pages, with
-bookmarks for navigation.
+`Procurement Requirements Package.pdf` — the full package.
 
 1. Context and Scope
 2. Stakeholders
